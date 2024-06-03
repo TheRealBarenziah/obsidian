@@ -59,10 +59,11 @@
             "id": "48db479253f9984d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "fildo/pnjs/Charles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fildo/pnjs/Charles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fildo/pnjs/Charles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "fildo/pnjs/Charles.md"
+              }
             }
           },
           {
@@ -203,7 +208,7 @@
     "irl/wishlist pour un blog.md",
     "fildo/citations/Stendhal.md",
     "fildo/citations/Sade.md",
-    "Charles.md",
+    "fildo/pnjs/Charles.md",
     "fildo/citations/Stendhal",
     "fildo/citations",
     "fildo/pnjs/Beatrice.md",
