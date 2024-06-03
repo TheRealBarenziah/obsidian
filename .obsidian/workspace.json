@@ -11,11 +11,63 @@
             "id": "5bb322d8ade42203",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Anonymes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "538258c1ffa88e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Ariadne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c4f6cde9ea776f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Azphelumbra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02f89d7ac7eda38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Beatrice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48db479253f9984d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,14 +172,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "6b5002975607e045",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,12 +198,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ead436a863ac2139",
+  "active": "48db479253f9984d",
   "lastOpenFiles": [
+    "irl/wishlist pour un blog.md",
+    "fildo/citations/Stendhal.md",
+    "fildo/citations/Sade.md",
+    "Charles.md",
+    "fildo/citations/Stendhal",
+    "fildo/citations",
+    "fildo/pnjs/Beatrice.md",
+    "fildo/pnjs/Azphelumbra.md",
+    "fildo/pnjs/Ariadne.md",
+    "fildo/pnjs/Anonymes.md",
+    "fildo/pnjs/Anastasia.md",
+    "irl/content creators.md",
+    "create a link.md",
+    "README.md",
+    "irl",
     "Welcome.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "create a link.md",
     "fildo/pnjs",
     "fildo"
   ]
