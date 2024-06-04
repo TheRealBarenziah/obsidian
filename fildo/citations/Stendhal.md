@@ -35,3 +35,5 @@ Pléiade
 	- "C'est une chose contrariante, pour une âme un peu délicate, de ne pouvoir pas danser une seule fois avec un homme sans qu'il ne forme le projet d'épouser." p.897
 	- "Le soupçon d'aimer l'avait pénétré de honte, il se sentit dégradé." P906
 	- "[...] cette nuance de familiarité délicate qui convient à deux âmes de même portée, lorsqu'elles se rencontrent et se reconnaissent au milieux des masques de cet ignoble bal masqué qu'on appelle le monde." P.923
+	- "Au lieu de soutenir son courage par l'action, Lucien, en ce moment critique, avait la faiblesse de réfléchir, de philosopher." p.918
+	- "S'il ne me méprisait pas, je le mépriserais moi-même." p.941
