@@ -7,4 +7,6 @@ Petite amie d'un des frères de Naphte
 
 Ce genre de troubles...
 
-Elle la croisera par hasard alors qu'elle se ballade main dans la main avec Constance; elle lâche sa main et fait une attaque de panique qui initiera le début de la fin du couple.
+Elle la croisera par hasard alors qu'elle se ballade main dans la main avec Sophie; elle lâche sa main et fait une attaque de panique qui initiera le début de la fin du couple.
+
+#Anastasia #pnj 

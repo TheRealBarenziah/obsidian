@@ -1,0 +1,15 @@
+## 2023
+- Do you even lift? #fitness
+    - Haltères 6kg
+        - 15 août: 10 droite , 9 gauche (fail)
+- Poids (matin post-pipi) #fitness
+    - 28 juin: 77.1
+    - 2 juillet: 76.4
+    - 5 juillet: 76.2
+    - 7 juillet: 76.05
+    - 16 juillet: 75.55
+    - 26 juillet: 75.2
+    - 30 juillet: 74.65
+    - 13 août: 74.1 (après voyage en Alsace)
+    - 18 août: 73.15
+    - 4 septembre: 73.55

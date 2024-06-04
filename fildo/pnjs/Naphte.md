@@ -1,0 +1,22 @@
+
+*BFF*
+
+Blonde vénitienne, 1.51m, poitrine généreuse et tâches de rousseur éparses.
+
+Première fille et deuxième enfant d'une fratrie de 6, sa soeur naîtra seulement onze mois après elle. Amie éternelle d'Oriane depuis l'école primaire, chacune a une connaissance quasi parfaite de l'autre, et chacune s'est influencée mutuellement. D'une intelligence similaire à Oriane mais moins cérébrale, elle dégage un puissant charisme qui depuis sa puberté attire la plupart des hommes mais également beaucoup de femmes, séduites par sa douceur comme la vivacité de son esprit.
+
+Ce n'est pas abusif de dire qu'Oriane s'est partiellement développée dans son ombre, et put naviguer l'adolescence en restant extrêmement introvertie, puisque Naphte se faisait une joie de sous-traiter tout ce qui touchait aux relations sociales. Elle fut terrifiée au moins mille fois de perdre Naphte au profit d'une de ses nombreuses conquêtes ou innombrables connaissances, d'autant qu'elle pousse régulièrement sa franchise crue et cruelle à son maximum en compagnie de son amie. Mais Naphte, bien qu'elle ne lui fasse pas de cadeaux, et malgré son humeur fluctuante, est toujours restée absolument fidèle à Oriane au bout du compte. Oriane serait strictement incapable de le croire car Naphte est particulièrement douée pour camoufler ses sentiments profonds, mais Oriane est la personne qui compte le plus au monde pour elle - plus même que ses frères, sa soeur, que ses parents, et elle donnerait jusqu'à sa propre vie pour sauver celle d'Oriane si une situation dramatique le demandait. Cependant sa fierté est telle qu'elle ne l'admettra jamais à sa meilleure amie, et sa perversité telle qu'elle s'amuse régulièrement à faire douter Oriane de ses sentiments. Les péripéties qu'ont traversé ensemble ces deux amies constituent une grande partie du fil d'Oriane tant leur destin est confondu.
+
+Plus scolaire et académique que son amie, Naphte eut 18,9 à son baccalauréat. Elle pratique également le judo depuis ses huit ans et s'est rapidement passionnée pour ce sport, au point d'enchaîner les petits boulots pendant son adolescence pour pouvoir se payer davantage de cours. Sensible à sa passion, son instructeur l'a toujours soutenue et encouragée, lui donnant volontiers de son temps, si bien que Naphte put passer sa ceinture noire à dix-sept ans et son deuxième Dan à 19, faisant la fierté de son dojo (et de sa famille au passage, Oriane comprise). Au point d'avoir l'option d'en faire son métier, mais de peur de transformer sa passion en contrainte, elle s'oriente plutôt vers une école de commerce
+
+- Elle sait rester imprévisible: ainsi, lorsqu'O dit vouloir la ligoter (sur le ton de la plaisanterie) elle accepta soudainement. Bien entendu O ne laissa pas passer l'opportunité, et bientôt Naphte avait ses mains et des chevilles liées ensemble dans son dos. Lorsqu'elle en fut là Oriane ne put pas s'empêcher de taquiner son amie. Pourquoi aurait-elle accepté sinon..? Elle pris un immense plaisir à la chatouiller, mais lorsqu'échauffée elle saisit la tête de son amie par les cheveux de l'arrière du crâne, et approche son visage à quelques centimètres du sien, Naphte dit un seul mot: "Non". Un riche dialogue s'établit pendant qu'elles se regardent dans les yeux sans rien dire. Qu'en retire Naphte, ça reste un mystère. Quant à O, elle détache son amie aprèsce dialogue silencieux; médusée, elle tire plusieurs leçons de cet épisode, dont la plus important après l'inscrutabilité de Naphte est: [redacted]
+
+- Elle doit avorter à 19 ans, ce qui finit de cliver ses rapports familiaux; O pourrait constater des changements à partir de là (mentaux? corporels? sinon pas de changement? juste une possibilité)
+
+- Pendant le dernier acte, elle a un enfant avec son copain (avec qui sa relation est profonde - ils ont traversé plusieurs ruptures et rabibochages au fil des années, mais au moment où Naphte est tombée enceinte ils avaient une relation relativement stable de plusieurs années, et une connexion profonde).
+
+Oriane n'est plus la personne qui compte le plus pour elle (elle est peut-être même passée troisième) ce qui va la dévaster et provoquer des comportements qui ne vont pas améliorer les choses...
+
+- A plusieurs reprises, casser le 4ème mur pour suggérer que le livre aurait été plus intéressant si Naphte avait été le personnage principal: ça traduit ce que ressent réellement Oriane vis-à-vis de son amie et d'elle-même.
+
+#fildo #Naphte #pnj
