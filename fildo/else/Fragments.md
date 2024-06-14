@@ -218,6 +218,10 @@
 
   Surtout pendant leur adolescence mais de temps en temps aussi adultes, #oriane et #naphte échangent en codes télégraphiques. Cet intérêt est parti d'Oriane, qui vers douze ans, parcourant la bibliothèque de Léona est tombée sur le [Adams Cable Codex](https://archive.org/details/adamscablecodex00cogoog/page/n22/mode/2up) et a été fascinée.
 
+- Mots adolescents
+  
+  Naphte était jeune quand elle m'a écrit "Tu es eau, tu n'as aucun goût mais je ne pourrai pas vivre sans toi."
+
 - Falling in love
 
   L'attirance envers certaines personnes est comme une pente savonneuse; pour ne pas tomber trop bas, il faut s'aider des *défauts* de la surface, et selon la vitesse de la chute, ne faut pas lésiner et s'agripper à n'importe quoi. Toute opinion douteuse, tout défaut physique ou moral, toute odeur imparfaite, toute éraflure d'ego: il faut faire feu de tout bois, aucun détail n'est ridicule ni négligeable à la conscience. Car lorsque la glissade est amorçée et le jugement aveuglé pour de bon, il est trop tard pour percevoir quoi que ce soit, et si rien n'a été mémorisé en amont, la conscience sera pour ainsi dire en chute libre, livrée à la merci des sensations et contrainte de sûbir l'anomie pendant un temps déterminé, jusqu'à ce que l'humiliation ou la lassitude finisse par briser le charme de la façon la plus irréversible. Ne reste alors qu'une plaie douloureuse, qui cicatrisera peut-être, ou peut-être pas.
