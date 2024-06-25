@@ -1,0 +1,8 @@
+  *Ami devenu pote.*
+
+  Taille moyenne, cheveux bruns, yeux marron.
+
+  Vieille connaissance d'Oriane, en couple depuis le lycée, isolé de ses parents (intégristes juifs) et de quasiment toute sa famille (sauf sa soeur) depuis son mariage (impie), s'est fait passer á tabac sur une mauvaise rencontre, et est sorti de l'hôpital paralysé moteur. Ori, qui avait de grosses réserves sur sa copine Sandra au moment du mariage (car cette femme le coupait sciemment de sa famille par son approche sans compromis), est traumatisée par l'évènement et la transformation physique d'un de ses rares amis masculins. Au fil du temps, son respect augmente pour celle qui est désormais sa femme et qui s'occupe de lui du matin au soir en + d'avoir réorganisé sa vie professionnelle (elle est QA) pour rendre ça possible. A l'inverse, elle voit son ancien ami abuser de la totale serviabilité de sa femme, et s'aigrir progressivement.. Le traumatisme d'Oriane se concrétise, dans un premier temps par une peur (paranoïa même) de sortir de chez elle. Et des mois plus tard, laisse une trace indélébile sur sa représentation de l'amour, après avoir été témoin du point de départ et d'arrivée (?) du couple le plus tenace qu'elle ait connu (de sa génération) - nom et arc de cette femme à définir, mais ça ne finit pas bien (frustrations éternelles, peur d'abandonner son mari qui fait pourtant tout pour, fuite en avant vers des distractions stériles..)
+
+- "Rentrer dans cet appartement a injecté un chaos immense; je ne me doutais pas de la quantité de poussière que mon passage soulèverait; l'air que je laissai en partant était chargé en particules et irrespirable."
+

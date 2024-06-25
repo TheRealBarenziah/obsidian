@@ -133,7 +133,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fildo/else/Fragments.md",
+                "file": "fildo/else/Oriane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef8b4df891c9d02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/else/Oriane's music.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c38b92df11461aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Raphaël.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a5017916f1184b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Senna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5b2303f2ea34bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fildo/pnjs/Sylvia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f36becbf48a8a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e66e137857d649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irl/To buy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f46565f32e00bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irl/To listen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "582b20953692d824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wallace.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,18 +332,6 @@
             }
           },
           {
-            "id": "5f94f893a370e5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orianemusic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "432e3054683a62e2",
             "type": "leaf",
             "state": {
@@ -260,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -289,7 +373,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "M",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,8 +390,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fildo/else/Fragments.md",
+                "file": "Wallace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fildo/else/Fragments.md",
+                "file": "Wallace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fildo/else/Fragments.md"
+                "file": "Wallace.md"
               }
             }
           },
@@ -396,13 +479,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a8b6f0747dcb982",
+  "active": "582b20953692d824",
   "lastOpenFiles": [
-    "fildo/else/Pnjs.md",
-    "Orianemusic.md",
-    "fildo/else/Oriane.md",
+    "irl/To listen.md",
+    "Wallace.md",
+    "irl/To buy.md",
+    "Timeline.md",
+    "fildo/pnjs/Sylvia.md",
+    "fildo/citations/Stendhal.md",
+    "irl/Fitness.md",
+    "irl/content creators.md",
     "fildo/else/Meta.md",
+    "fildo/else/Oriane's music.md",
+    "Orianemusic.md",
+    "fildo/else/Fragments.md",
+    "fildo/pnjs/Sophie.md",
+    "fildo/pnjs/Senna.md",
+    "fildo/pnjs/Raphaël.md",
+    "fildo/else/Oriane.md",
     "fildo/pnjs/Nathalie.md",
+    "irl/To watch.md",
+    "fildo/else/Pnjs.md",
     "fildo/else",
     "fildo/pnjs/Naphte.md",
     "fildo/pnjs/Masha.md",
@@ -411,22 +508,8 @@
     "fildo/pnjs/Léona.md",
     "fildo/pnjs/Anastasia.md",
     "fildo/pnjs/Anonymes.md",
-    "fildo/pnjs/Ariadne.md",
-    "fildo/pnjs/Azphelumbra.md",
-    "fildo/pnjs/Beatrice.md",
-    "fildo/pnjs/Charles.md",
-    "fildo/pnjs/Constance.md",
-    "fildo/pnjs/Joseph.md",
-    "fildo/pnjs/Daphné.md",
-    "fildo/else/Fragments.md",
-    "irl/Fitness.md",
-    "fildo/Untitled.md",
-    "irl/wishlist pour un blog.md",
-    "fildo/citations/Stendhal.md",
-    "fildo/citations/Sade.md",
     "fildo/citations/Stendhal",
     "fildo/citations",
-    "irl/content creators.md",
     "irl",
     "Untitled 1.canvas",
     "Untitled.canvas",

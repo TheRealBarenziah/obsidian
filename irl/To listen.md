@@ -1,0 +1,75 @@
+- Tag my heart
+- Stomach Book - pas dégueu mais pas trop ma tasse de thé ?
+- Rabbit Junk - pas mal, accents de WARGASM
+- Fever the Ghost - meh
+- Lealani - très sympathique (rythmes électro sympas + bjork-ish voice)
+- death insurance - intéressante gothik-ish / electro
+- jakeneutron
+- LustSickPuppy
+- Thumpasaurus - funky, festif, sympathik
+- Free Refills - female fronted punk, instrus plutôt sympathique
+- Zheani - somewhat gothic pop-ish music
+- Maria Domark (wannabe poppy, pas malhonnête)
+- Pussy Riot
+- Golden Boy
+- Lucrecia (pas sur archive metal ?)
+- 0%Mercury (xcore?)
+- ミドリ -> trébieng (jazz-punk JP); pas sur archives metal. [chanteuse](https://en.wikipedia.org/wiki/Mariko_Got%C5%8D)
+- 385 -> excellent (autre jazz-punk JP)
+- Wakusei Abnormal ( 惑星アブノーマル) (pas mal mais gentil; repasser sur la disco pour extraire ce qui doit l'être
+- BLEACH (jp) -> tout à fait bieng (all-female punk JP, bonnes basses)
+- Super Junky Monkey -> (all-female punk-rock des 90's, excellentes basses, **perle absolue** (you are not the one !!!))
+- eX-Girl (un peu beaucoup alternatif mais sympa)
+- Melt-Banana (extraction complete?)
+- 0.8Syooogeki (garçon chante >50% du temps mais très bon rock; repasser sur la disco)
+- Mummy the Peepshow (マミー・ザ・ピープショウ, or マミー・ザ・ピープショー) - très peu de matos sur spotify
+- GitoGito Hustler (ギトギトハスラ) (extraction complete)
+- Otoboke Beaver ("donto lighto my fileu" trop bien; repasser sur l'ensemble)
+- Futakuchi Mana (weeb metal, jolie anime girl qui chante~~)
+- PassCode
+- Seagull Screaming Kiss Her Kiss Her (indie; 1er album calme, écouter les autres)
+- 54 Nude Honeys - pas mal, extraction complete
+- つしまみれ (TsuShiMaMiRe) (rock, bonnes basses, écoute en cours (update: pepite/10 <3 xoxo))
+- detroit7 (okish, extraction complete)
+- Yellow Machinegun (hard-rock? extraction complete)
+- AJICO (+ dans la zone "weeaboo chill")
+- noodles (pas sur spotify)
+- Mummy the Peepshow (quasi rien; processed)
+- Atarashii Gakkou No Leaders
+- 14th Generation Toilet Hanako-san (punk (metallish) chanteuse bien sympa)
+- Hakushi Hasegawa (pop intéressante? a creuser)
+- HANABIE. (metal jp ?)
+- Coaltar Of The Deepers - female fronted rock jp a creuser?
+- TRiDENT (female-fronted rock jp)
+- hakushi hasegawa
+- 相対性理論 (Sōtaisei Riron/Soutaisei Riron)
+- Number Girl
+- Xinlisupreme
+- Togawa Jun (戸川純)
+- Gezan
+- 銀杏BOYZ (Ging Nang Boyz)
+- COCOBAT (no gurl ms basse a priori)
+- TORANOKO RAMMY
+- from "the sound of japanese girl punk":
+    - THE MADAME CATS
+    - Titan go king's
+    - Mikabomb
+    - THE LET'S GO's
+    - Thee 50's High Teens
+    - BO-PEEP
+    - Supersnazz
+    - Akiakane
+    - That's a NO NO!
+    - The Milkees
+    - PRAMBATH
+    - Ketchup Mania
+    - Banana Erectors
+    - Molice (prometteur)
+    - Skirt No Naka (prometteur)
+    - ni-hao!!!! (prometteur même si pas forcément punk)
+    - GO!GO!7188 (bass?)
+    - (j'en suis à 1,2,3GO! (pinky doodle poodle))
+
+- [female fronted math rock](https://www.reddit.com/r/mathrock/comments/u0yzut/female_fronted_math_rock_bands)
+
+- 6:33 (liked by Akphaezya fans)
